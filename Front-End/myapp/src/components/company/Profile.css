@@ -1,0 +1,20 @@
+.profileDiv{
+    height: "auto";
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: white;
+    padding: 10px;
+    margin-left: 37%;
+    margin-top: 5%;
+}
+.profileShowLavel{
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+}
+.profileUpdateBtn{
+   margin-left: 10px;
+   margin-top: 10px;
+}
